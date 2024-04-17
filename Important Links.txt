@@ -1,0 +1,15 @@
+1. Query-based text Summarisation: https://github.com/madhudamor24/Query-based-text-summarization
+2. Graph-based text Summarisation: https://github.com/ShristiK/Text-Summarization
+3. Text Compression Methods: https://github.com/ElizaLo/Data-Compression-Methods
+4. Dependency Parser Multilingual: https://www.kaggle.com/code/dtiyhodth/dependency-parser-nlp-lab-8
+5. Abstractive Text Summarisation (3 methods): https://www.kaggle.com/code/akashsdas/abstractive-text-summarization/notebook
+6. Markov and viterbi algo to generate sentence and correct it: https://github.com/anassinator/markov-sentence-correction
+7. A Python twitter bot that uses a markov chain based sentence generator to fill in tweets: https://github.com/etorresh/MarkovTweets
+8. textgenrnn (pre-trained model for text generation): https://github.com/minimaxir/textgenrnn/blob/master/docs/textgenrnn-demo.ipynb
+9. Neural Machine Translation (Tamil to English): https://github.com/Sangarshanan/Neural-Language-Translation
+10. Pretrained- Model usage for Machine Translation: https://github.com/praveenjune17/Neural-Machine-Translation-English-Tamil-  model/blob/master/Transformer_en_tam.ipynb
+11. Active-Passive (but in someother language): https://github.com/smb-h/active-to-passive-sentences
+12. Question-Answering Project: https://github.com/KristiyanVachev/Question-Generation/tree/master/data
+
+
+Roopali github: https://github.com/riya2025/END_LAB_NLP
